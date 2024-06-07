@@ -379,6 +379,7 @@ img {
     border-radius: 50%;
     overflow: hidden;
     border: 5px solid #fff;
+    background-color: #fff;
     display: inline-block;
 }
 
@@ -939,7 +940,7 @@ ul.port-nav-list li a.active {
 /*--------- 10. Statistic area starts -----------*/
 
 .statistic-area{
-    background-image: url(../images/statistic/stats.jpg);
+    background-image: url(../images/home/4.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
